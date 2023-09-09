@@ -177,3 +177,5 @@ Reactive Resume is packaged and distributed using the [MIT License](https://choo
 
 _By the community, for the community._  
 A passion project by [Amruth Pillai](https://amruthpillai.com/)
+Name: Inuwa Danazimi Baba
+Email:dbaba2011@yahoo.com
