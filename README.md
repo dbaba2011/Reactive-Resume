@@ -179,3 +179,5 @@ _By the community, for the community._
 A passion project by [Amruth Pillai](https://amruthpillai.com/)
 Name: Inuwa Danazimi Baba
 Email:dbaba2011@yahoo.com
+git@github.com:dbaba2011/Reactive-Resume.git
+https://www.linkedin.com/pulse/my-journey-reactive-resume-portfolio-project-inuwa-dan-azimi-baba
